@@ -7,4 +7,6 @@ public class Aircraft {
 
 private int aircraftId;
 
+private String aircraftName;
+
 }
